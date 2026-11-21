@@ -1,8 +1,3 @@
-# Ricks Clips Animation Skill V1.1
-
-## What it is
-A Claude skill. It makes Ricks Clips style 3D cartoon true-story Shorts on your own PC.
-
 How it works:
 - The world is built in a three.js kit and rendered on your graphics card.
 - The characters are 2D cards that stand inside the 3D world.
